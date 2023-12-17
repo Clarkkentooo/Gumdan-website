@@ -1,0 +1,14 @@
+{
+	"folders": [
+		{
+			"path": "../OneDrive/Desktop/GUMDAN"
+		},
+		{
+			"path": "STORE-Gumdan"
+		}
+	],
+	"settings": {
+		"liveServer.settings.port": 5502,
+		"liveServer.settings.multiRootWorkspaceName": "GUMDAN"
+	}
+}
